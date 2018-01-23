@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: HelloWorld1, Configuration: Debug Any CPU ------
+1>C:\Users\Ashley\source\repos\HelloWorld1\HelloWorld1\Program.cs(18,17,18,23): warning CS0219: The variable 'ageOne' is assigned but its value is never used
+1>C:\Users\Ashley\source\repos\HelloWorld1\HelloWorld1\Program.cs(21,20,21,29): warning CS0219: The variable 'heightOne' is assigned but its value is never used
+1>C:\Users\Ashley\source\repos\HelloWorld1\HelloWorld1\Program.cs(23,19,23,28): warning CS0219: The variable 'weightOne' is assigned but its value is never used
+1>C:\Users\Ashley\source\repos\HelloWorld1\HelloWorld1\Program.cs(25,18,25,30): warning CS0219: The variable 'isGodLikeOne' is assigned but its value is never used
+1>  HelloWorld1 -> C:\Users\Ashley\source\repos\HelloWorld1\HelloWorld1\bin\Debug\HelloWorld1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
